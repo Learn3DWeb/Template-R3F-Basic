@@ -1,4 +1,4 @@
-# template-r3f-basic
+# Template: React Three Fiber (R3F) Basic
 
 This project is a basic template for a React Three Fiber (R3F) application.
 
