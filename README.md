@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://learn3dweb.com/"><img src="https://raw.githubusercontent.com/Learn3DWeb/.github/main/Learn3DWeb_Rec.svg" alt="Learn3DWeb Logo"></a>
+</p>
+
 # Template: React Three Fiber (R3F) Basic
 
 This project is a basic template for a React Three Fiber (R3F) application.
