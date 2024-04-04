@@ -10,6 +10,8 @@ const HUDStyle = styled.div`
   height: 100dvh;
   height: -webkit-fill-available;
   grid-template-rows: min-content auto min-content;
+  z-index: 10;
+  pointer-events: none; // IMPORTANT!
 `;
 
 export function HUD() {
@@ -21,4 +23,3 @@ export function HUD() {
     </HUDStyle>
   );
 }
-

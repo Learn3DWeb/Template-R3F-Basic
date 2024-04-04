@@ -3,7 +3,7 @@ Basic
 ****************************************/
 :root {
   --TitleFont: Tahoma, Verdana, sans-serif;
-  --Background: linear-gradient(to right, #FFD194, #D1913C); 
+  --Background: linear-gradient(to right, #ffd194, #d1913c);
 }
 
 html,
@@ -34,4 +34,8 @@ Box Sizing
 ****************************************/
 * {
   box-sizing: border-box;
+}
+
+a {
+  pointer-events: all;
 }
