@@ -6,8 +6,8 @@ import { Scene3D } from "./components/3D";
 export function App() {
   return (
     <AppStyle>
-      <HUD />
       <Scene3D />
+      <HUD />
     </AppStyle>
   );
 }
