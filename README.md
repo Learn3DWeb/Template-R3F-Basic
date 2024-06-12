@@ -49,6 +49,6 @@ This project uses the following dependencies:
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Learn3DWeb/template-r3f-basic
 cd template-r3f-basic
 npm install
